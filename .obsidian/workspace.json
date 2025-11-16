@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c981c8ee3f3e84c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd0d2453164240a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b2312b91c04e01",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_canvas/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc8e03d5c464efb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "df0c03a2387e7c43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d413e4826aae65ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eaeb20610f65880f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0dc48621f5457e34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41e46dd1715c704b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0345395c09fbfe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac0882eab28843b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_canvas/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "355f19ef54c546e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_canvas/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "089dfac7049c01e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b6dfa676f4676e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e2aa73b196c21b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_canvas/Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "598bba72611d2ddb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "beaa06fe2f81e275",
+        "type": "window",
+        "children": [
+          {
+            "id": "62fc91a4ca448a4d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3624d0c447bacee7",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "_canvas/Untitled.canvas",
+                    "viewState": {
+                      "x": -167.0552291329378,
+                      "y": -175.18189447777988,
+                      "zoom": -0.2724055553724369
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 37,
+        "width": 1512,
+        "height": 945,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3624d0c447bacee7",
+  "lastOpenFiles": [
+    "_canvas/Untitled.canvas",
+    "_canvas",
+    "_attachements"
+  ]
+}
