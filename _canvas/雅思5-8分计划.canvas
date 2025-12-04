@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8c87381c0658ff9d","type":"text","text":"60天内雅思5-8 分\n","x":-1720,"y":-620,"width":250,"height":50},
+		{"id":"9cc8ae8b92789da2","type":"text","text":"[[AI生成一个最小可执行的单元计划]]","x":-1180,"y":-440,"width":250,"height":50},
+		{"id":"b2a548014c9e8cd9","type":"text","text":"[[获得雅思学习资料]]","x":-640,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"58988be579e7a120","fromNode":"8c87381c0658ff9d","fromSide":"right","toNode":"9cc8ae8b92789da2","toSide":"left"},
+		{"id":"c1f5fd8f31261eff","fromNode":"9cc8ae8b92789da2","fromSide":"bottom","toNode":"b2a548014c9e8cd9","toSide":"top"}
+	]
+}
