@@ -8,75 +8,120 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d02c3c2bc0a734e8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_canvas/雅思5-8分计划.canvas",
-                "viewState": {
-                  "x": -1055,
-                  "y": -380,
-                  "zoom": -1.1010861251143147
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "雅思5-8分计划"
-            }
-          },
-          {
             "id": "c7e1e72a4296a32e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2025-12-04.md",
+                "file": "_diary/2025-12-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-04"
+              "title": "2025-12-05"
             }
           },
           {
-            "id": "0c33fd6028456455",
+            "id": "431c1ca725e7ebee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "初级冥想训练.md",
+                "file": "_diary/2025-12-06.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "初级冥想训练"
+              "title": "2025-12-06"
+            }
+          },
+          {
+            "id": "c4d365b731cbbffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_diary/2025-12-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-06"
+            }
+          },
+          {
+            "id": "f1afc5095ddb1fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_diary/2025-12-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-06"
+            }
+          },
+          {
+            "id": "2b35e2086cd9e49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_diary/2025-12-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-05"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "1f5343c5ae044a85",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e4207744683c375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "初级冥想训练.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "初级冥想训练"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,54 +283,19 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "4c8e97405b416a45",
-    "type": "floating",
-    "children": [
-      {
-        "id": "90bcc3ab8f1ec9cd",
-        "type": "window",
-        "children": [
-          {
-            "id": "2fffd9be2cf133a2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "92c1f1ecc7adad00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "diary/2025-12-04.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-12-04"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 341,
-        "y": 109,
-        "width": 1025,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "92c1f1ecc7adad00",
+  "active": "f1afc5095ddb1fe9",
   "lastOpenFiles": [
-    "diary/2025-12-04.md",
-    "初级冥想训练.md",
-    "_canvas/雅思5-8分计划.canvas",
+    "_diary/2025-12-05.md",
+    "_diary/2025-12-06.md",
     "AI生成一个最小可执行的单元计划.md",
     "获得雅思学习资料.md",
+    "TODO.md",
+    "_attachements",
     "_canvas/Untitled.canvas",
-    "diary",
+    "_canvas/雅思5-8分计划.canvas",
+    "初级冥想训练.md",
+    "().md",
+    "_diary",
     "快速通过雅思考试.md",
     "Plan to IELTS.md",
     "LICENSE.md",
