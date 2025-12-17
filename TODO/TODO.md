@@ -1,5 +1,7 @@
 - [ ] 总结并且优化[[当前的工作流]]
-- [ ] 规划接下来三天每天对于科目二流程的复习
+- [x] 规划接下来三天每天对于科目二流程的复习
+	- [ ] 通勤路上回忆科目二
+	- [ ] 晚上睡觉前加入回忆
 - [x] <mark style="background: #FFB8EBA6;"> 回顾设计开发过程</mark>[[Summary of Pee Reminder App]]
 	- [x] <mark style="background: #FFB8EBA6;">列出开发过程以及各个环节的时间消耗</mark> [[Summary of Pee Reminder App#列出开发过程以及各个环节的时间消耗]]
 	- [x] <mark style="background: #FFB8EBA6;">优化每个过程 缺点 改进点 下次这种场景如何做</mark> [[Summary of Pee Reminder App#优化]]
@@ -8,7 +10,7 @@
 - [ ] finish [[Best practice of cursor]]    
 - [ ] 设计开发靠近app
 - [ ] goose3 看论文以及其构成的App的过程
-- [ ] 思考AI code的真谛
+- [x] 思考AI code的真谛 [[Best practice of cursor]]    
 - [ ] 试图打造一个人生管理上下文的agent类似与教练例如冥想教练一直会记住你所有的行为然后给出建议然后再和这个AI做出交互反馈就类似和ai交互编程一样
 - [x] 下次建议不一定是明天的建议也可以是下次活动的建议
 - [ ] AutoGLM

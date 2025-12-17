@@ -4,38 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "4e4e727afefc53a3",
-        "type": "tabs",
+        "id": "201fcf38d10b7205",
+        "type": "split",
         "children": [
           {
-            "id": "ed84f4026de29e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科目二考试技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "科目二考试技巧"
-            }
+            "id": "4e4e727afefc53a3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ddd64d0aa600edd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
+              }
+            ]
           },
           {
-            "id": "c183b6cb4ab2a4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Best practice of cursor.md",
-                "mode": "source",
-                "source": false
+            "id": "dc9235c737425795",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "715de3313982ccd1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Best practice of cursor"
-            }
+              {
+                "id": "4d371090a87a6632",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_diary/2025-12-17.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-12-17"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -108,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科目二考试技巧.md",
+                "file": "TODO/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 科目二考试技巧"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -127,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科目二考试技巧.md",
+                "file": "TODO/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 科目二考试技巧"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -170,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科目二考试技巧.md",
+                "file": "TODO/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 科目二考试技巧"
+              "title": "Outline of TODO"
             }
           }
         ],
@@ -184,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,22 +267,25 @@
       }
     ]
   },
-  "active": "ed84f4026de29e1f",
+  "active": "ddd64d0aa600edd4",
   "lastOpenFiles": [
+    "当前的工作流.md",
+    "TODO/TODO.md",
+    "TODO/坐车通勤.md",
     "TODO/当前重点.md",
     "TODO/Deperacted.md",
-    "TODO/TODO.md",
+    "_diary/2025-12-18.md",
+    "行为塑造理论.md",
+    "_diary/2025-12-17.md",
+    "冥想语音脚本.md",
+    "科目二考试技巧.md",
     "Best practice of cursor.md",
     "minimal understanding of a project.md",
     "minimal understanding of the project.md",
     "Summary of Pee Reminder App.md",
-    "TODO/坐车通勤.md",
     "_diary/2025-12-09.md",
     "TODO/Untitled.md",
-    "_diary/2025-12-17.md",
     "Untitled 1.md",
-    "冥想语音脚本.md",
-    "科目二考试技巧.md",
     "下周食谱.md",
     "12.18到医院咨询问题.md",
     "_diary/2025-12-16.md",
@@ -261,9 +295,6 @@
     "_diary/2025-12-15.md",
     "睡眠差如何解决.md",
     "健身动作设计.md",
-    "_diary/2025-12-05.md",
-    "_diary/2025-12-12.md",
-    "_diary/2025-12-14.md",
     "TODO",
     "_canvas/Untitled.canvas",
     "Untitled.canvas"
