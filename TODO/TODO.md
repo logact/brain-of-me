@@ -1,27 +1,55 @@
-- [x] [[行为塑造理论]]
-	- [ ] 如何分解呢？
-	- [ ] 能否使用AI去自动分解？
-- [ ] 看佛格行为模型
-	- [ ] [[佛格行为模型#行为设计]]
-- [ ] 利用佛格行为模型设计牙齿护理的心流动作
-- [ ] 总结并且优化当前的工作流
-- [ ] 添加obsidian插件让它能够快速的标记颜色 
-- [ ]  回顾设计开发过程
-- [ ] 冥想语音脚本
+- [ ] 总结并且优化[[当前的工作流]]
+- [ ] 规划接下来三天每天对于科目二流程的复习
+- [x] <mark style="background: #FFB8EBA6;"> 回顾设计开发过程</mark>[[Summary of Pee Reminder App]]
+	- [x] <mark style="background: #FFB8EBA6;">列出开发过程以及各个环节的时间消耗</mark> [[Summary of Pee Reminder App#列出开发过程以及各个环节的时间消耗]]
+	- [x] <mark style="background: #FFB8EBA6;">优化每个过程 缺点 改进点 下次这种场景如何做</mark> [[Summary of Pee Reminder App#优化]]
+- [x] 办理申请驾驶考试地改变
+- [x] <mark style="background: #BBFABBA6;">冥想语音脚本开发</mark> [[冥想语音脚本]]
+- [ ] finish [[Best practice of cursor]]    
 - [ ] 设计开发靠近app
 - [ ] goose3 看论文以及其构成的App的过程
 - [ ] 思考AI code的真谛
 - [ ] 试图打造一个人生管理上下文的agent类似与教练例如冥想教练一直会记住你所有的行为然后给出建议然后再和这个AI做出交互反馈就类似和ai交互编程一样
-- [ ] obsidian手机端同步方案寻找
-- [ ] 下次建议不一定是明天的建议也可以是下次活动的建议
+- [x] 下次建议不一定是明天的建议也可以是下次活动的建议
 - [ ] AutoGLM
 - [ ] nanochat
 - [ ] agent 提交的时候应该使用agent的名字，区别真实的用户提交
-- [ ] 设计下周食谱
-- [ ] 设计下周健身动作
-- [ ] 睡眠差如何解决（深度睡眠少）
-- [ ] macos如何关闭当前的窗口在开了多个应用的窗口的时候
+- [x] <mark style="background: #FFB8EBA6;">设计下周食谱</mark>[[下周食谱]]
+- [x] <mark style="background: #FFB8EBA6;">设计下周健身动作</mark>[[健身动作设计]]
+- [x] 睡眠差如何解决（深度睡眠少）
+- [x] [[macos如何关闭当前的窗口在开了多个应用的窗口的时候关闭当前窗口]]
 - [ ] 让排入的任务区分困难强度
-- [ ] 制作一个动眼澡的引导程序
-- [ ] 学习pee reminder的代码实现逻辑
+- [ ] 制作一个眼肌训练的引导程序
+- [ ] <mark style="background: #FFB8EBA6;">学习peeReminder的代码实现逻辑</mark>
+- [ ] <mark style="background: #FFB8EBA6;">学习Android打包逻辑</mark>
+	- [ ] ./gradlew assembleRelease 发生了什么
+	- [ ] 为什么需要各种密码在生成的时候
+	- [ ] 为什么调试的时候不用key Store
+	- [ ] 为什么使用Android studio 可以打包而直接使用命令行不行
 - [ ] 我想到了一个场景在一个中午吃饭的空隙时间你拿出了手机app自动给你提供了最有可能完成的todo也许我们可以实现他
+
+- [ ] https://cursor.com/blog/browser-visual-editor
+- [ ] GTD
+- [ ] 如何衡量ai模型的能力
+- [ ] 如何让手机能够远程更新
+- [ ] 打造游戏挤死在地铁上的一百种方式
+- [ ] 开发进阶版的obsidian todo插件拥有进行中不可行等状态
+- [ ] 打造英语学习软件
+- [ ] 简单的行为模型是很重要的如果应用佛格行为模型简单行为的方式或许可以应用到我的抗抑郁app中（心理抑郁患者无法及时的侦查到自己的行为我们或许需要通过最黄金的动作让他能够在最抑郁的时候也能做到的习惯）
+- [ ] 找到我的黄金行为
+- [ ] 在日常生活中使用map模型来分析行为
+- [ ] 开发一个todo可以让匹配用户在不同场景下完成匹配的todo例如在外面排队等待的时候就可以查询一个记录的小问题。
+- [ ] todo需要能够验证在提出一个todo后需要将这个todo改为能够能够被快速验证的行为
+- [ ] todo应该增加自动分解成为小任务的功能例如读一本书能够自动分解为读各个不同章节的内容
+- [ ] plan mode cursor
+- [ ] 如何帮老妈提高睡眠质量
+- [x] 将手机不要放在睡觉的地方
+- [x] obsidian手机端同步方案寻找 [[使用iCloud在apple生态中同步obsidian]]
+- [x] 添加obsidian插件让它能够快速的标记颜色 
+- [x] [[行为塑造理论]]
+- [ ] 创建文字转语音的APP
+- [ ] TTS转语音的方式
+- [ ] gemini 登陆
+- [ ] 如何打开obsidian的目录树
+- [ ] 开发一个以提示词中英文互译为目的的网站 目标是让用户学会用英文写提示词。
+- [ ] cursor user rules and project rules
