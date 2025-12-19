@@ -1,4 +1,10 @@
-- [ ] 总结并且优化[[当前的工作流]]
+- [ ] optimize[[当前的工作流]]
+- [ ] review the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
+- [ ] polish the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
+- [ ] cursor user rules and project rules
+- [ ] rebuild the pee reminder
+- [ ]  other engineering suggestion to [[Best practice of cursor#common setting of prompt]]
+- [ ] [[Best practice of cursor#Process of creating a new project]]
 - [x] 规划接下来三天每天对于科目二流程的复习
 	- [ ] 通勤路上回忆科目二
 	- [ ] 晚上睡觉前加入回忆
@@ -29,7 +35,6 @@
 	- [ ] 为什么调试的时候不用key Store
 	- [ ] 为什么使用Android studio 可以打包而直接使用命令行不行
 - [ ] 我想到了一个场景在一个中午吃饭的空隙时间你拿出了手机app自动给你提供了最有可能完成的todo也许我们可以实现他
-
 - [ ] https://cursor.com/blog/browser-visual-editor
 - [ ] GTD
 - [ ] 如何衡量ai模型的能力
@@ -52,6 +57,14 @@
 - [ ] 创建文字转语音的APP
 - [ ] TTS转语音的方式
 - [ ] gemini 登陆
-- [ ] 如何打开obsidian的目录树
+- [x] 如何打开obsidian的目录树
 - [ ] 开发一个以提示词中英文互译为目的的网站 目标是让用户学会用英文写提示词。
-- [ ] cursor user rules and project rules
+- [ ] [learn context engineering](https://www.youtube.com/watch?v=XFCkrYHHfpQ)
+- [ ] how to do something you should do but you don't want to do.
+- [ ] Don’t drink water before sleeping 
+- [ ] schedule the mindful course using UCLA mindful
+- [ ] plan the workout plan without keep course adding the workout exercise you like.
+- [ ] rebuild the cookbook
+- [ ] don't try to get perfect prompt just think the smallest work demo for you.
+- [ ] [learn agent skills ](https://agentskills.io/home)
+- [ ] [learn cursor hook](https://cursor.com/docs/agent/hooks)
