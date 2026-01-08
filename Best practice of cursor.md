@@ -5,6 +5,8 @@
 # process with AI 
 follow the process in [[Solving Problems with AI]],and we set some setting in cursor("User rules", "Project rules", "User commands","Project commands") create the agent.md for cursor. [[cursor agent]]
 
+
+
 # prompt template
 ### common setting of prompt
 1. tech architecture
@@ -32,7 +34,6 @@ follow the process in [[Solving Problems with AI]],and we set some setting in cu
 	1. firstly  feasibility analysis, research  is it available?
 	2. if it's available? research best practice
 	3. small proof-of-concept(if we stuck try to use this to figure out how the plan run)
-
 
 ### bug fix
 1. current state

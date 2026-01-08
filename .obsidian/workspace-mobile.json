@@ -8,83 +8,95 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f8c6b079d12732f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_diary/2025-12-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-13"
-            }
-          },
-          {
-            "id": "ef333e96e975444f",
+            "id": "b1220dbd5bd3dd96",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "佛格行为模型.md",
+                "file": "摄影学习实践计划.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "佛格行为模型"
+              "title": "摄影学习实践计划"
             }
           },
           {
-            "id": "b904000680687aeb",
+            "id": "02280bf36fdd0d10",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "佛格行为模型精读.md",
+                "file": "科目二考试技巧.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "佛格行为模型精读"
+              "title": "科目二考试技巧"
             }
           },
           {
-            "id": "0d9067c977c32012",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "佛格行为模型精读.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "佛格行为模型精读"
-            }
-          },
-          {
-            "id": "5c7c9c5cd882f3de",
+            "id": "f69eed8c5d732fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/TODO.md",
+                "file": "摄影学习实践计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "摄影学习实践计划"
+            }
+          },
+          {
+            "id": "9df72a1dce42cb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_diary/2025-12-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-25"
+            }
+          },
+          {
+            "id": "a4ba116188e3056c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "当前的工作流.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "当前的工作流"
+            }
+          },
+          {
+            "id": "1650b8aedaa7b88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科目二考试技巧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "科目二考试技巧"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -175,7 +187,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "佛格行为模型精读.md",
+            "file": "_diary/2025-12-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,34 +243,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c7c9c5cd882f3de",
+  "active": "1650b8aedaa7b88d",
   "lastOpenFiles": [
-    "Summary of Pee Reminder App.md",
-    "TODO/TODO.md",
-    "_diary/2025-12-19.md",
-    "佛格行为模型精读.md",
-    "_diary/2025-12-18.md",
-    "下周食谱.md",
-    "Untitled 1.md",
-    "Deprecate",
-    "科目二考试技巧.md",
-    "TODO/坐车通勤.md",
-    "12.18到医院咨询问题.md",
-    "_diary/2025-12-17.md",
-    "TODO/Deperacted.md",
-    "minimal understanding of a project.md",
-    "Best practice of cursor.md",
-    "minimal understanding of the project.md",
-    "_diary/2025-12-16.md",
-    "佛格行为模型.md",
-    "健身动作设计.md",
-    "佛格行为模型读书记录.md",
-    "_diary/2025-12-15.md",
-    "精读流程.md",
-    "行为塑造理论.md",
-    "peeReminder设计回顾.md",
+    "_diary/2025-12-28.md",
+    "_diary/2025-12-29.md",
+    "_diary/2025-12-27.md",
+    "Untitled.md",
     "当前的工作流.md",
-    "_diary/2025-12-14.md",
-    "_diary/2025-12-13.md"
+    "TODO/TODO.md",
+    "_diary/9999-12-31.md",
+    "_diary/2025-12-26.md",
+    "morning job.md",
+    "科目二考试技巧.md",
+    "_diary/2025-12-25.md",
+    "摄影学习实践计划.md",
+    "_diary/2025-12-24.md",
+    "相机为什么无法显示人眼的效果.md",
+    "佛格行为模型.md",
+    "佛格行为模型精读.md",
+    "_diary/2025-12-23.md",
+    "TODO/坐车通勤.md",
+    "婚礼摄影速成.md",
+    "_diary/2025-12-22.md",
+    "_diary/2025-12-21.md",
+    "Utral todo.md",
+    "Solving Problems with AI.md",
+    "_diary/2025-12-20.md",
+    "_diary/2025-12-19.md",
+    "TODO/当前重点.md",
+    "Deprecate"
   ]
 }

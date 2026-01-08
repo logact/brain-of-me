@@ -1,70 +1,95 @@
-- [ ] optimize[[当前的工作流]]
-- [ ] review the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
-- [ ] polish the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
-- [ ] cursor user rules and project rules
+
+- [ ] root
+- [x] 每天早上模拟科目二练车
+- [x] 制定[[摄影学习实践计划]]
+- [x] 如何避免自己的崩溃就像[[2025-12-24]][[2025-12-23]] [[调整流程]]
+- [ ] 回顾为什么这些天为什么没有写日记
+- [ ] 为什么没有练车还是很紧张，没有自信，
+- [ ] 制定接下来的食谱
 - [ ] rebuild the pee reminder
-- [ ]  other engineering suggestion to [[Best practice of cursor#common setting of prompt]]
-- [ ] [[Best practice of cursor#Process of creating a new project]]
-- [x] 规划接下来三天每天对于科目二流程的复习
-	- [ ] 通勤路上回忆科目二
-	- [ ] 晚上睡觉前加入回忆
-- [x] <mark style="background: #FFB8EBA6;"> 回顾设计开发过程</mark>[[Summary of Pee Reminder App]]
-	- [x] <mark style="background: #FFB8EBA6;">列出开发过程以及各个环节的时间消耗</mark> [[Summary of Pee Reminder App#列出开发过程以及各个环节的时间消耗]]
-	- [x] <mark style="background: #FFB8EBA6;">优化每个过程 缺点 改进点 下次这种场景如何做</mark> [[Summary of Pee Reminder App#优化]]
-- [x] 办理申请驾驶考试地改变
-- [x] <mark style="background: #BBFABBA6;">冥想语音脚本开发</mark> [[冥想语音脚本]]
-- [ ] finish [[Best practice of cursor]]    
+	- [x] phase0
+	- [x] phase1
+	- [x] phase2
+	- [x] phase3
+	- [ ] 测试调试
+	- [ ] <mark style="background: #FFB8EBA6;">学习Android打包逻辑</mark>
+		- [ ] ./gradlew assembleRelease 发生了什么
+		- [x] [[为什么需要各种密码在生成的时候]]
+		- [x] [[安卓为什么调试的时候不用key Store]]
+		- [ ] 为什么使用Android studio 可以打包而直接使用命令行不行
+- [ ] 日记最小执行单元
+- [ ] 总结练车经历 为什么紧张以及如何战胜
+- [ ] 总结拍摄经历
+- [ ] 查看资料 https://www.doubao.com/chat/33819365195381762
+- [ ] fix all issue about todo [[GTD]] [[Utral todo]]
+	- [ ] 结合 [[Utral todo]]的建议（目标应该是可量化的度量的）改善日程的写法
+	- [ ] 给日程添加心情记录
+	- [ ] optimize[[当前的工作流]]
+	- [ ] 开发一个todo可以让匹配用户在不同场景下完成匹配的todo例如在外面排队等待的时候就可以查询一个记录的小问题。
+	- [ ] todo需要能够验证在提出一个todo后需要将这个todo改为能够能够被快速验证的行为
+	- [ ] todo应该增加自动分解成为小任务的功能例如读一本书能够自动分解为读各个不同章节的内容
+	- [ ] 开发进阶版的obsidian todo插件拥有进行中不可行等状态
+	- [ ] learn dida todo list drag the todo to schedule
+	- [ ] learn the gpt task to seperate the todo
+	- [ ]  对于一个一般的todo软件的一个最大的缺陷在于无法帮助我对下次行动提出建议，所以我的日程日记还是很重要的。
 - [ ] 设计开发靠近app
 - [ ] goose3 看论文以及其构成的App的过程
-- [x] 思考AI code的真谛 [[Best practice of cursor]]    
 - [ ] 试图打造一个人生管理上下文的agent类似与教练例如冥想教练一直会记住你所有的行为然后给出建议然后再和这个AI做出交互反馈就类似和ai交互编程一样
-- [x] 下次建议不一定是明天的建议也可以是下次活动的建议
 - [ ] AutoGLM
 - [ ] nanochat
 - [ ] agent 提交的时候应该使用agent的名字，区别真实的用户提交
-- [x] <mark style="background: #FFB8EBA6;">设计下周食谱</mark>[[下周食谱]]
-- [x] <mark style="background: #FFB8EBA6;">设计下周健身动作</mark>[[健身动作设计]]
-- [x] 睡眠差如何解决（深度睡眠少）
-- [x] [[macos如何关闭当前的窗口在开了多个应用的窗口的时候关闭当前窗口]]
 - [ ] 让排入的任务区分困难强度
 - [ ] 制作一个眼肌训练的引导程序
-- [ ] <mark style="background: #FFB8EBA6;">学习peeReminder的代码实现逻辑</mark>
-- [ ] <mark style="background: #FFB8EBA6;">学习Android打包逻辑</mark>
-	- [ ] ./gradlew assembleRelease 发生了什么
-	- [ ] 为什么需要各种密码在生成的时候
-	- [ ] 为什么调试的时候不用key Store
-	- [ ] 为什么使用Android studio 可以打包而直接使用命令行不行
 - [ ] 我想到了一个场景在一个中午吃饭的空隙时间你拿出了手机app自动给你提供了最有可能完成的todo也许我们可以实现他
 - [ ] https://cursor.com/blog/browser-visual-editor
-- [ ] GTD
 - [ ] 如何衡量ai模型的能力
 - [ ] 如何让手机能够远程更新
 - [ ] 打造游戏挤死在地铁上的一百种方式
-- [ ] 开发进阶版的obsidian todo插件拥有进行中不可行等状态
 - [ ] 打造英语学习软件
 - [ ] 简单的行为模型是很重要的如果应用佛格行为模型简单行为的方式或许可以应用到我的抗抑郁app中（心理抑郁患者无法及时的侦查到自己的行为我们或许需要通过最黄金的动作让他能够在最抑郁的时候也能做到的习惯）
 - [ ] 找到我的黄金行为
 - [ ] 在日常生活中使用map模型来分析行为
-- [ ] 开发一个todo可以让匹配用户在不同场景下完成匹配的todo例如在外面排队等待的时候就可以查询一个记录的小问题。
-- [ ] todo需要能够验证在提出一个todo后需要将这个todo改为能够能够被快速验证的行为
-- [ ] todo应该增加自动分解成为小任务的功能例如读一本书能够自动分解为读各个不同章节的内容
-- [ ] plan mode cursor
-- [ ] 如何帮老妈提高睡眠质量
-- [x] 将手机不要放在睡觉的地方
-- [x] obsidian手机端同步方案寻找 [[使用iCloud在apple生态中同步obsidian]]
-- [x] 添加obsidian插件让它能够快速的标记颜色 
-- [x] [[行为塑造理论]]
+- [ ] plan mode cursor 
+- [ ] 如何帮老妈提高睡眠质量 
 - [ ] 创建文字转语音的APP
 - [ ] TTS转语音的方式
 - [ ] gemini 登陆
-- [x] 如何打开obsidian的目录树
 - [ ] 开发一个以提示词中英文互译为目的的网站 目标是让用户学会用英文写提示词。
 - [ ] [learn context engineering](https://www.youtube.com/watch?v=XFCkrYHHfpQ)
-- [ ] how to do something you should do but you don't want to do.
-- [ ] Don’t drink water before sleeping 
-- [ ] schedule the mindful course using UCLA mindful
-- [ ] plan the workout plan without keep course adding the workout exercise you like.
-- [ ] rebuild the cookbook
-- [ ] don't try to get perfect prompt just think the smallest work demo for you.
-- [ ] [learn agent skills ](https://agentskills.io/home)
-- [ ] [learn cursor hook](https://cursor.com/docs/agent/hooks)
+- [ ] [[how to do something you should do but you don't want to do]]
+- [ ] plan the workout plan without keep course adding the workout exercise you like.-
+- [ ] what’s the feeling after longtime writing and thinking 
+- [ ] 如果使用合适足够的context 就可以让AI做出任何符合预期的动作那么如果将人的心里状态这个context让AI知道呢？
+- [ ] [[what's keyword 'suspend' in android?]]
+- [ ] 研究马桶水箱工作的原理（如何快速学习这种完全不熟悉的领域）
+	- [ ] 水箱抽水的原理
+	- [ ] 拍水的原理
+	- [ ] 如何快速学习这种完全不熟悉的领域
+	- [ ] 使用gemini看马桶的学习
+	- [ ] 可以用AI生成工作原理的视频
+- [ ] MCP
+- [ ] 我们应该添加一些让能够让AI快速测试的设置选项
+- [ ] 制作project-context的时候应该让AI以一种append的方式记录所有的状态变化在一个change里面
+- [ ] 应该化更多的时间预览实施方案
+- [ ] 在使用非vibecoding 的方式下采用理解AI生成code的方式的时候感觉非常的累 或许是我们需要明确理解的方式
+- [ ] 把自己的状态记录下来 包括自己的心理状态身体数据技能点来为AI提供contex
+- [ ] 制作一个指尖流程
+- [ ] 如果某个模型无法解决我们的问题是否用更大的算力就可以实现
+- [ ] 给老爸老妈写AI提示词教程
+- [ ] 整理笔记[[佛格行为模型精读]] 利用AI结构化输出内容
+- [ ] 与LLM交互的时候一定要指定我们的输出（输出范围，输出的格式，输出的内容）
+- [ ] 为peeReminder添加电话呼叫提醒或者短信功能提醒
+- [ ] 根据我们的记录优化我们的提示次
+- [ ] [[what's intent in android]]
+- [ ] AI give our to more try to add some restrication to its output. Would you like to see a quick list of the most common Intent actions used in apps?
+- [ ] 你无法预知你的身体是如何做的例如你很难描述你是怎么走路的，市场也是一样的，你应该直接给出你的身体指令
+- [ ] 放个显示器在家里增加场景提示
+- [ ] 编写[[调整流程]]
+- [ ] 为什么摄影的灯那么贵呢？
+- [ ] 为什么相机拍夕阳的时候偏白色
+
+
+
+
+
+

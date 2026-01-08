@@ -1,0 +1,1 @@
+for practical understanding it represents a page.

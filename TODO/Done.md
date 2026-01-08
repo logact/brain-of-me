@@ -1,0 +1,22 @@
+- [x] 规划接下来三天每天对于科目二流程的复习
+	- [x] 通勤路上回忆科目二
+- [x] <mark style="background: #FFB8EBA6;"> 回顾设计开发过程</mark>[[Summary of Pee Reminder App]]
+	- [x] <mark style="background: #FFB8EBA6;">列出开发过程以及各个环节的时间消耗</mark> [[Summary of Pee Reminder App#列出开发过程以及各个环节的时间消耗]]
+	- [x] <mark style="background: #FFB8EBA6;">优化每个过程 缺点 改进点 下次这种场景如何做</mark> [[Summary of Pee Reminder App#优化]]
+- [x] 办理申请驾驶考试地改变
+- [x] <mark style="background: #BBFABBA6;">冥想语音脚本开发</mark> [[冥想语音脚本]]
+- [x] finish [[Best practice of cursor]]    
+- [x] 思考AI code的真谛 [[Best practice of cursor]]    
+- [x] review the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
+- [x] polish the [[# how to solve problem with AI]] withe [gemini](https://gemini.google.com/app/cd40cf61fa3b6cf7) 
+- [x] cursor user rules and project rules
+- [x] [[Best practice of cursor#Process of creating a new project]]
+- [x] [[GTD]]
+- [x] 将手机不要放在睡觉的地方
+- [x] obsidian手机端同步方案寻找 [[使用iCloud在apple生态中同步obsidian]]
+- [x] 添加obsidian插件让它能够快速的标记颜色 
+- [x] [[行为塑造理论]]
+- [x] 如何打开obsidian的目录树
+- [x] why i feel motivation is very low after i sleep in afternoon.
+- [x] schedule the mindful course using UCLA mindful
+- [x] [[what's a activity in android.]]

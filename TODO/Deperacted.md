@@ -2,3 +2,4 @@
 	- [ ]  节奏还是太快
 	- [ ] 由于节奏太快整个音频的时长只有五分钟
 	- [ ] 感觉说话的口音有点重
+- [ ] <mark style="background: #FFB8EBA6;">学习peeReminder的代码实现逻辑</mark> 有了peeReminder2不用这个了

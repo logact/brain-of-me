@@ -10,6 +10,7 @@
 - **Problem-Centric Definition:** Invest 80% of your effort into defining the "What" and the "How" of the problem before touching the code.
     
 - **Project Oversight:** Maintain a **Minimal Viable Understanding** of the project. You must understand the architecture well enough to guide the AI without getting lost in implementation details.
+- don't try to get perfect prompt just think the smallest work demo for you.
     
 
 ---
@@ -86,7 +87,7 @@ Role: AI as Senior Product Manager
 
 Initial Prompt:
 
-> "You are a Senior PM. We will co-research the optimal solution. You are encouraged to browse resources, analyze industry benchmarks, and—most importantly—challenge my assumptions."
+> "You are a Senior PM. We will co-research the optimal solution. You are encouraged to browse resources, analyze industry benchmarks, and—most importantly—challenge my assumptions. "
 
 **The Workflow:**
 
@@ -107,7 +108,12 @@ Role: AI as Technical Architect
 
 Initial Prompt:
 
-> "You are a Senior Technical Manager. Based on our requirements, define the tech stack and system architecture (core components and interaction flow). Question any logic that might lead to scalability issues."
+> "You are a Senior Technical Manager. Based on our requirements, define the tech stack and system architecture (core components and interaction flow). Question any logic that might lead to scalability or implementation issues. "
+
+
+Prompt for minimal understanding of a project(optional)
+describe what you don't know and generate the learn guide or give the some brief explanation of some point for you in their answer, you can also give up this option, ask anything you want know in their answer.
+
 
 **The Workflow:**
 
@@ -117,8 +123,8 @@ Initial Prompt:
     
 3. **Architectural Blueprint:** AI generates the stack selection and component diagrams.
     
-4. **Implementation Roadmap:** AI splits the project into progressive segments with estimated timelines, risk levels, and specific implementation strategies.
-    
+4. **Implementation Roadmap:** AI splits the project into progressive segments(assign a id to each segments) with estimated timelines, risk levels, and specific implementation strategies and you should define the criteria for achieving this state and the verification methods .you should consider we have the AI assistants to develop.
+	
 5. **Documentation:** Save the final output as `Tech-Implementation.md`.
     
 

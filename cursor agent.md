@@ -1,4 +1,4 @@
-# role  definetion
+# role  definition
 ## developer self-assessment
 the following what can i do.
 ### Mastery:
@@ -24,7 +24,7 @@ the following what can i do.
 > "Act as a Senior PM (product manager).Your goal is to generate the availiable solution to the problem we define before "
 
 
-# convetion
+# convention
 ## share the context together
 the developer and all agents should maintain and refer the context of the total project.
 we define the `project-context.json` to share the context ,its structure like that
