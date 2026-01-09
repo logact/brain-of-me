@@ -3,10 +3,10 @@
 2. the developer should provide enough context including the "where the problem?" ,"how the data  flow","what's the basic implementation logic of some function "
 3. so the developer should have a  [[#minimal understanding of a project]].
 # process with AI 
-follow the process in [[Solving Problems with AI]],and we set some setting in cursor("User rules", "Project rules", "User commands","Project commands") create the agent.md for cursor. [[cursor agent]]
+follow the process in [[Solving Problems with AI]],and we set some setting in cursor("User rules", "Project rules", "User commands","Project commands") create the `AGENT.md` for cursor. [[cursor agent]]
 
 
-
+************
 # prompt template
 ### common setting of prompt
 1. tech architecture
