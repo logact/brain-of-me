@@ -7,7 +7,8 @@ the following what can i do.
 3. mysql database
 ### proficiency:
 1. simple android/IOS app develop
-2. docker and linux
+2. web dev
+3. docker and linux
 ### Familiarity
 1. transform
 2. block

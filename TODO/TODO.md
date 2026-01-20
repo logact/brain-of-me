@@ -6,18 +6,41 @@
 - [ ] 回顾为什么这些天为什么没有写日记
 - [ ] 为什么没有练车还是很紧张，没有自信，
 - [ ] 制定接下来的食谱
-- [ ] rebuild the pee reminder
+- [x] rebuild the pee reminder
 	- [x] phase0
 	- [x] phase1
 	- [x] phase2
 	- [x] phase3
-	- [ ] 测试调试
-	- [ ] <mark style="background: #FFB8EBA6;">学习Android打包逻辑</mark>
+	- [x] 测试调试
+	- [x] <mark style="background: #FFB8EBA6;">学习Android打包逻辑</mark>
 		- [ ] ./gradlew assembleRelease 发生了什么
 		- [x] [[为什么需要各种密码在生成的时候]]
 		- [x] [[安卓为什么调试的时候不用key Store]]
 		- [ ] 为什么使用Android studio 可以打包而直接使用命令行不行
-- [ ] 日记最小执行单元
+- [x] 日记最小执行单元
+- [ ] try to let the daily manage my mood.
+- [x] Driving log[[drive log ]]
+- [ ] I have a idea, In conversations with AI, we may split our entire process to different phase in different context(or different chat) because the limitation of length of context, break down different sessions may get better out.But if we found something that produce in previous chat need to be adjust, we have to redo the previous process which need to be adjust to the current phase. If there some quick way to modify the previous sessions.[[Better way to work with Gemini or other chat-website ai tool using multiple chat]]
+- [ ] learn english from the conversation to the agent.
+- [ ] maybe we can record mutiple type of user's thought at same time,eg.
+      I'm tired but I need to build something 
+	keep both the mood feeling path and todo path 
+- [ ] Daily template Automation optimization:Use script to copy the of Dawn job from the yesterday's next dawn to the current day's dawn Execution.
+- [ ] All of the AI agent are try to build a better humanable communication way let people operate is it impossible to make the model get the communication way automatically according to the user's context.
+- [x] [[why the llm agent couldn't get the correct date]].
+- [ ] It's seem that gemini can read all conversations of the agent.should we have a better way to use the gemini.
+- [ ] learn notebookLM
+- [ ] convert you life to a context that can be called by llm.
+- [ ] https://support.google.com/gemini/answer/13278892?visit_id=639043818095980625-874658831&p=man_del&rd=1
+- [ ] why the llm can work, it's really amazing!
+- [ ] have a deit for Friday.
+- [ ] how to meaure a effect of prompt in a project?
+- [ ] after long time studying i  still fill energy
+- [ ] how to work on my back.
+- [ ] why I always not feel confident on my English expression.
+- [ ] learn type of typescript.
+- [ ] refine the  daily template
+- [ ] write a prompt for conclude today's word.
 - [ ] 总结练车经历 为什么紧张以及如何战胜
 - [ ] 总结拍摄经历
 - [ ] 查看资料 https://www.doubao.com/chat/33819365195381762
@@ -49,7 +72,7 @@
 - [ ] 简单的行为模型是很重要的如果应用佛格行为模型简单行为的方式或许可以应用到我的抗抑郁app中（心理抑郁患者无法及时的侦查到自己的行为我们或许需要通过最黄金的动作让他能够在最抑郁的时候也能做到的习惯）
 - [ ] 找到我的黄金行为
 - [ ] 在日常生活中使用map模型来分析行为
-- [ ] plan mode cursor 
+- [x] plan mode cursor 
 - [ ] 如何帮老妈提高睡眠质量 
 - [ ] 创建文字转语音的APP
 - [ ] TTS转语音的方式
@@ -58,6 +81,7 @@
 - [ ] [learn context engineering](https://www.youtube.com/watch?v=XFCkrYHHfpQ)
 - [ ] [[how to do something you should do but you don't want to do]]
 - [ ] plan the workout plan without keep course adding the workout exercise you like.-
+- [ ] https://www.youtube.com/watch?v=6eBSHbLKuN0
 - [ ] what’s the feeling after longtime writing and thinking 
 - [ ] 如果使用合适足够的context 就可以让AI做出任何符合预期的动作那么如果将人的心里状态这个context让AI知道呢？
 - [ ] [[what's keyword 'suspend' in android?]]
@@ -87,6 +111,7 @@
 - [ ] 编写[[调整流程]]
 - [ ] 为什么摄影的灯那么贵呢？
 - [ ] 为什么相机拍夕阳的时候偏白色
+- [ ] What's a NP-complete question.
 
 
 

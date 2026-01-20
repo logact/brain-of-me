@@ -4,117 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "1c47446669308193",
+        "id": "37c1773ef7aa9b5a",
         "type": "split",
         "children": [
           {
-            "id": "29342be958eb0c14",
-            "type": "split",
-            "dimension": 13.623978201634879,
+            "id": "a09ef52505757a8f",
+            "type": "tabs",
+            "dimension": 49.63119072708114,
             "children": [
               {
-                "id": "a09ef52505757a8f",
-                "type": "tabs",
-                "dimension": 21.074815595363543,
-                "children": [
-                  {
-                    "id": "e2e08ac798fe7657",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "TODO/TODO.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "TODO"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "d645d2e6469b897d",
-                "type": "tabs",
-                "dimension": 78.92518440463647,
-                "children": [
-                  {
-                    "id": "4bd61e4ac355e759",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "_diary/2026-01-09.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "2026-01-09"
-                    }
-                  }
-                ]
+                "id": "dfd794adc8299d8b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_diary/2026-01-20.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "2026-01-20"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           },
           {
-            "id": "78941acea615c28c",
-            "type": "split",
-            "dimension": 86.37602179836512,
+            "id": "cee548db61c2a521",
+            "type": "tabs",
+            "dimension": 50.36880927291886,
             "children": [
               {
-                "id": "65f8a3ca48b51858",
-                "type": "tabs",
-                "dimension": 78.92518440463647,
-                "children": [
-                  {
-                    "id": "3f0345aaecb7fc91",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Best practice of cursor.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Best practice of cursor"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "76c9558654ca575a",
-                "type": "tabs",
-                "dimension": 21.074815595363543,
-                "children": [
-                  {
-                    "id": "108452eb2ae15aec",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Test log session.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Test log session"
-                    }
-                  }
-                ]
+                "id": "3f03ad52131ceef2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -146,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursor",
+                "query": "score",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7fcc45cccca630c",
@@ -275,41 +214,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3f0345aaecb7fc91",
+  "active": "dfd794adc8299d8b",
   "lastOpenFiles": [
-    "Test log session.md",
-    "Best practice of cursor.md",
-    "_diary/2025-12-22.md",
-    "_diary/2025-12-23.md",
-    "_diary/2025-12-24.md",
-    "_diary/2025-12-26.md",
-    "_diary/2025-12-27.md",
-    "_diary/2026-01-02.md",
-    "_diary/2025-12-18.md",
-    "安卓为什么调试的时候不用key Store.md",
-    "_diary/2026-01-09.md",
-    "_diary/2026-01-08.md",
-    "Pasted image 20260109101151.png",
-    "agent skills.md",
-    "睡眠差如何解决.md",
-    "科目三考试技巧.md",
-    "_diary/2026-01-07.md",
-    "处理紧张感.md",
-    "Untitled.md",
-    "快速日志模版.md",
+    "Red Road MVP.md",
+    "Red Road V2.md",
+    "Red Road v4.md",
+    "Red Road.md",
+    "Red Road V3.md",
+    "_diary/2026-01-20.md",
     "TODO/TODO.md",
-    "TODO/当前重点.md",
-    "TODO/日常.md",
-    "TODO/pending.md",
-    "TODO/Deperacted.md",
-    "TODO/坐车通勤.md",
+    "TODO/Mood.md",
+    "Untitled 3.md",
+    "_template/daily-template(0.0.0).md",
+    "_diary/2026-01-19.md",
+    "why the llm agent couldn't get the correct date.md",
+    "drive log.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Insert Yesterday's Link Here.md",
+    "Untitled.canvas",
+    "Draft Red Road Product Spec v5.md",
     "食谱.md",
+    "_template",
+    "_diary/2026-01-18.md",
+    "tomato workout mix mode.md",
+    "Spec of RR.md",
+    "_diary/9999-12-31.md",
+    "Work flow with Cursor.md",
+    "Better way to work with Gemini or other chat-website ai tool using multiple chat.md",
+    "better way to work with Gemini or other chat-website ai tool.md",
+    "Draft MVP RRD of RedRoad.md",
+    "Untitled.base",
+    "Pasted image 20260109101151.png",
     "Deprecate",
     "TODO",
-    "_canvas/Untitled.canvas",
-    "Untitled.canvas"
+    "_canvas/Untitled.canvas"
   ]
 }
